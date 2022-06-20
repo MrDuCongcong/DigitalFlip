@@ -1,0 +1,23 @@
+{
+  "name": "digital-flip",
+  "version": "1.0.0",
+  "description": "Very powerful digital flopper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrDuCongcong/DigitalFlip.git"
+  },
+  "keywords": [
+    "digital",
+    "floolper"
+  ],
+  "author": "DuCongcong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrDuCongcong/DigitalFlip/issues"
+  },
+  "homepage": "https://github.com/MrDuCongcong/DigitalFlip#readme"
+}
